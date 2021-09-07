@@ -4,8 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Clock from './Clock'
+import Clockf from './Clockf'
 ReactDOM.render(
-    <Clock/>,
+    <Clockf/>,
   document.getElementById('root')
 );
 
