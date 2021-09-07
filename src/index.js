@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 // import App from './App';
 // import Clock from './Clock'
 // import Clockf from './Clockf'
-import WebSite from "./WebSite";
+import LoggingButton from "./LoggingButton";
+// import WebSite from "./WebSite";
 ReactDOM.render(
-    <WebSite/>,
+    <LoggingButton/>,
   document.getElementById('root')
 );
 

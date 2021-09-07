@@ -3,8 +3,8 @@ import React from "react";
 // import Link from "./Link";
 class WebSite extends React.Component{
 
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
     this.state = {
       name: "菜鸟教程",
       site: "https://www.runoob.com"
