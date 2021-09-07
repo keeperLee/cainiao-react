@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Clock from './Clock'
-import Clockf from './Clockf'
+// import Clockf from './Clockf'
 ReactDOM.render(
-    <Clockf/>,
+    <Clock/>,
   document.getElementById('root')
 );
 
